@@ -1,6 +1,6 @@
 # 📊 Sales & Shipping Dashboard
 
-![Dashboard Overview](resources/dashboard_overview.mp4)
+![Dashboard Overview](resources/dashboard_overview.gif)
 _Interactive Excel dashboard analyzing sales and shipping performance_
 
 ---
